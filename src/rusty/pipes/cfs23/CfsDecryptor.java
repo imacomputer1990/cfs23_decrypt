@@ -1,6 +1,6 @@
 package rusty.pipes.cfs23;
 
-public class CfsDecryptor 
+public class CfsDecryptor
 {
     private static final String XOR_KEY = "4282840";
     
